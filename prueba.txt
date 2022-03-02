@@ -1,3 +1,5 @@
 Este es un archivo de texto para prueba
 
 prueba de nueva version despues de reset
+
+otr cambio despues de nueva version
