@@ -12,8 +12,9 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px #fff;
+    border: 1px solid black;
     margin: 0 auto;
+    background-color: aliceblue;
 }
 
 #container h1{
