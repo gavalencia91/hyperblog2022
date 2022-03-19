@@ -2,6 +2,7 @@ Este es un archivo de texto para prueba
 
 prueba de nueva version despues de reset
 
+experimento 1
 master 1
 
 master 2
